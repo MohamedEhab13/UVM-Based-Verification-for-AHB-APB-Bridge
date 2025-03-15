@@ -1,0 +1,34 @@
+Dashboard
+
+Date: Thu Mar 13 11:15:13 2025
+
+User: ICer
+
+Version: O-2018.09-1
+Command line: urg -dir single_write_test.vdb -dir double_write_test.vdb -dir write_busy_test.vdb -dir single_read_test.vdb -dir double_read_test.vdb -dir read_busy_test.vdb -dir read_write_test.vdb -dir write_error_test.vdb -dir read_error_test.vdb -format both -dbname MERGE_COV -report Coverage_Report 
+
+Number of tests: 9
+
+-------------------------------------------------------------------------------
+Total Coverage Summary 
+SCORE  ASSERT GROUP  
+100.00 100.00 100.00 
+
+
+-------------------------------------------------------------------------------
+Hierarchical coverage data for top-level instances 
+SCORE  ASSERT NAME                    
+100.00 100.00 top.DUT.Assertions_inst 
+
+
+-------------------------------------------------------------------------------
+Total Module Definition Coverage Summary 
+SCORE  ASSERT 
+100.00 100.00 
+
+
+-------------------------------------------------------------------------------
+Total Groups Coverage Summary 
+SCORE  WEIGHT 
+100.00 1      
+

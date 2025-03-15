@@ -1,0 +1,36 @@
+Assertions
+
+
+Assertions by Category
+           ASSERT PROPERTIES SEQUENCES
+Total           0          5         0
+Category 0      0          5         0
+
+-------------------------------------------------------------------------------
+
+Assertions by Severity
+           ASSERT PROPERTIES SEQUENCES
+Total           0          5         0
+Severity 0      0          5         0
+
+-------------------------------------------------------------------------------
+
+Summary for Cover Properties
+             NUMBER PERCENT
+Total Number      5  100.00
+Uncovered         0    0.00
+Matches           5  100.00
+
+-------------------------------------------------------------------------------
+
+Detail Report for Cover Properties
+
+Cover Properties Matches:
+               COVER PROPERTIES                CATEGORY SEVERITY ATTEMPTS MATCHES INCOMPLETE
+top.DUT.Assertions_inst.cover_hreadyout_falls         0        0      510      11          0
+top.DUT.Assertions_inst.cover_p_pready_low            0        0      257       4          0
+top.DUT.Assertions_inst.cover_penable_duration        0        0      257      54          0
+top.DUT.Assertions_inst.cover_psel_timing             0        0      510      11          0
+top.DUT.Assertions_inst.cover_pslverr_response        0        0      510       2          0
+
+
